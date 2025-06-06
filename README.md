@@ -1,0 +1,1 @@
+# Malaria-Detection-Using-Computer-Vision-techniques-on-microscopic-images-of-blood-smears
